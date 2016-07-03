@@ -4,6 +4,7 @@ using AutoMapper;
 using Microsoft.AspNetCore.Mvc;
 using Scheduler.API.Core;
 using Scheduler.API.ViewModels;
+using Scheduler.Model;
 using Scheduler.Model.Entities;
 using Scheduler.Data.Abstract;
 using System.Linq;

@@ -2,6 +2,7 @@
 using System.Linq;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Scheduler.Model;
 using Scheduler.Model.Entities;
 
 namespace Scheduler.Data
