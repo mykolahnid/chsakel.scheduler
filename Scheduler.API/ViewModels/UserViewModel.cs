@@ -1,6 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using Scheduler.API.ViewModels.Validations;
+using System.Linq;
 
 namespace Scheduler.API.ViewModels
 {

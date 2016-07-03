@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using AutoMapper;
 using Scheduler.Model.Entities;
+using System.Linq;
 
 namespace Scheduler.API.ViewModels.Mappings
 {

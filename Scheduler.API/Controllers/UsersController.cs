@@ -6,6 +6,7 @@ using Scheduler.API.Core;
 using Scheduler.API.ViewModels;
 using Scheduler.Model.Entities;
 using Scheduler.Data.Abstract;
+using System.Linq;
 
 namespace Scheduler.API.Controllers
 {
